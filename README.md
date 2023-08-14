@@ -1,4 +1,4 @@
-# PLSC502: "Statistical Methods for Political Research" - Fall 2023
+# PLSC502: "Statistical Methods for Political Research" - Fall 2023 
 
 This is the github repo for the Fall 2023 instance of PLSC 502: "Statistical Methods for Political Research." The course is the first course in statistical / quantitative methods in the Ph.D. program in political science at Penn State.
 
